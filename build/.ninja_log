@@ -1,0 +1,13 @@
+# ninja log v6
+18	95	7445607915924482	.qt/qml_imports/Moving_circle_build.cmake	515d74badecf92c2
+18	95	7445607915924482	D:/VSCode/exemple4/Accepted/39/Moving_circle/build/.qt/qml_imports/Moving_circle_build.cmake	515d74badecf92c2
+95	280	7445607917282143	Moving_circle_autogen/timestamp	aecc7aea42e480b8
+95	280	7445607917282143	Moving_circle_autogen/mocs_compilation.cpp	aecc7aea42e480b8
+95	280	7445607917282143	D:/VSCode/exemple4/Accepted/39/Moving_circle/build/Moving_circle_autogen/timestamp	aecc7aea42e480b8
+95	280	7445607917282143	D:/VSCode/exemple4/Accepted/39/Moving_circle/build/Moving_circle_autogen/mocs_compilation.cpp	aecc7aea42e480b8
+287	362	7445607918573608	Moving_circle_autogen/EWIEGA46WW/qrc_qml.cpp	66f56c6535afb99f
+287	362	7445607918573608	D:/VSCode/exemple4/Accepted/39/Moving_circle/build/Moving_circle_autogen/EWIEGA46WW/qrc_qml.cpp	66f56c6535afb99f
+362	427	7445607918693072	CMakeFiles/Moving_circle.dir/Moving_circle_autogen/mocs_compilation.cpp.obj	11353a99b6db73c3
+369	456	7445607918762895	CMakeFiles/Moving_circle.dir/Moving_circle_autogen/EWIEGA46WW/qrc_qml.cpp.obj	46e17ce38ec38a2d
+365	2347	7445607918723006	CMakeFiles/Moving_circle.dir/main.cpp.obj	41b71759d219f665
+2352	2629	7445607938584776	Moving_circle.exe	9bfae549ddccb276

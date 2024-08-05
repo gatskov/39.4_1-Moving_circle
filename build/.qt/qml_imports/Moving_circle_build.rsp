@@ -1,0 +1,9 @@
+-rootPath
+D:/VSCode/exemple4/Accepted/39/Moving_circle
+-cmake-output
+-output-file
+D:/VSCode/exemple4/Accepted/39/Moving_circle/build/.qt/qml_imports/Moving_circle_build.cmake
+-importPath
+D:/VSCode/exemple4/Accepted/39/Moving_circle/build
+-importPath
+C:/msys64/mingw64/share/qt6/qml

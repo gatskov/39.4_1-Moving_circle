@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Moving_circle_FILE D:/VSCode/exemple4/Accepted/39/Moving_circle/build/Moving_circle.exe)
+set(__QT_DEPLOY_TARGET_Moving_circle_RUNTIME_DLLS C:/msys64/mingw64/bin/Qt6Quick.dll;C:/msys64/mingw64/bin/Qt6QmlModels.dll;C:/msys64/mingw64/bin/Qt6Qml.dll;C:/msys64/mingw64/bin/Qt6Network.dll;C:/msys64/mingw64/bin/Qt6OpenGL.dll;C:/msys64/mingw64/bin/Qt6Gui.dll;C:/msys64/mingw64/bin/Qt6Core.dll)

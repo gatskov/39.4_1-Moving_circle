@@ -1,0 +1,6 @@
+D:/VSCode/exemple4/Accepted/39/Moving_circle/build/CMakeFiles/Moving_circle.dir
+D:/VSCode/exemple4/Accepted/39/Moving_circle/build/CMakeFiles/Moving_circle_qmlimportscan.dir
+D:/VSCode/exemple4/Accepted/39/Moving_circle/build/CMakeFiles/edit_cache.dir
+D:/VSCode/exemple4/Accepted/39/Moving_circle/build/CMakeFiles/rebuild_cache.dir
+D:/VSCode/exemple4/Accepted/39/Moving_circle/build/CMakeFiles/Moving_circle_autogen_timestamp_deps.dir
+D:/VSCode/exemple4/Accepted/39/Moving_circle/build/CMakeFiles/Moving_circle_autogen.dir
